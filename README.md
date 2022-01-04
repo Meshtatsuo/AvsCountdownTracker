@@ -1,5 +1,7 @@
 # AvsCountdownTracker
-How many god damn times does Marc Moser say cutdown like for real
 
+## Overview
 
-This code is literally thrown together so yea it's not great but hey who cares this is just for fun
+This tracker is a discord bot that takes in commands to update how many times Moser uses the word "Cutdown".
+
+Includes a game tracker and season tracker. Threw this together in an afternoon for fun.
